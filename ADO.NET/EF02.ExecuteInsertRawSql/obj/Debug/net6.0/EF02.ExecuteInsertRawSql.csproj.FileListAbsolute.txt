@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\programing\Pluralsight\ASP.NET Core\My-code\EF02.ExecuteInsertRawSql\obj\Debug\net6.0\EF02.ExecuteInsertRawSql.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\programing\Pluralsight\ASP.NET Core\My-code\EF02.ExecuteInsertRawSql\obj\Debug\net6.0\EF02.ExecuteInsertRawSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\programing\Pluralsight\ASP.NET Core\My-code\EF02.ExecuteInsertRawSql\obj\Debug\net6.0\EF02.ExecuteInsertRawSql.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\programing\Pluralsight\ASP.NET Core\My-code\EF02.ExecuteInsertRawSql\obj\Debug\net6.0\EF02.ExecuteInsertRawSql.AssemblyInfo.cs
+C:\Users\Dell\Desktop\programing\Pluralsight\ASP.NET Core\My-code\EF02.ExecuteInsertRawSql\obj\Debug\net6.0\EF02.ExecuteInsertRawSql.csproj.CoreCompileInputs.cache
